@@ -94,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551525571157</updated>
-      <workItem from="1551525572252" duration="533000" />
+      <workItem from="1551525572252" duration="911000" />
     </task>
     <task id="LOCAL-00001" summary="from repo">
       <created>1551525641237</created>
@@ -107,7 +107,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="533000" />
+    <option name="totallyTimeSpent" value="911000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1373" height="785" extended-state="6" />
@@ -117,7 +117,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3292683" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.7484756" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
